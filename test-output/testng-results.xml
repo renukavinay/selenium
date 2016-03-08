@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11955" started-at="2016-03-08T22:34:50Z" finished-at="2016-03-08T22:35:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11955" started-at="2016-03-08T22:34:50Z" finished-at="2016-03-08T22:35:02Z">
+      <class name="com.herokuapp.selenium.HerokuppTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.herokuapp.selenium.HerokuppTest@40800a9e]" name="beforeMethod" is-config="true" duration-ms="11868" started-at="2016-03-08T14:34:50Z" finished-at="2016-03-08T14:35:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="brokenImages()[pri:0, instance:com.herokuapp.selenium.HerokuppTest@40800a9e]" name="brokenImages" duration-ms="4" started-at="2016-03-08T14:35:02Z" finished-at="2016-03-08T14:35:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- brokenImages -->
+        <test-method status="PASS" signature="herokuappTest()[pri:0, instance:com.herokuapp.selenium.HerokuppTest@40800a9e]" name="herokuappTest" duration-ms="57" started-at="2016-03-08T14:35:02Z" finished-at="2016-03-08T14:35:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- herokuappTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.herokuapp.selenium.HerokuppTest@40800a9e]" name="afterMethod" is-config="true" duration-ms="1" started-at="2016-03-08T14:35:02Z" finished-at="2016-03-08T14:35:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.herokuapp.selenium.HerokuppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
